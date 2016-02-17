@@ -1,0 +1,14 @@
+PODS:
+  - LazyTableDemo (0.1.0)
+
+DEPENDENCIES:
+  - LazyTableDemo (from `../`)
+
+EXTERNAL SOURCES:
+  LazyTableDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LazyTableDemo: e215875bdab39690f7392768d313cf5b9596d58b
+
+COCOAPODS: 0.39.0

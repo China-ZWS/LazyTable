@@ -1,0 +1,6 @@
+framework module LazyTableDemo {
+  umbrella header "LazyTableDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
