@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'LazyTableDemo_Example', :exclusive => true do
+  pod 'LazyTableDemo', :path => '../'
+end
+
+target 'LazyTableDemo_Tests', :exclusive => true do
+  pod 'LazyTableDemo', :path => '../'
+
+  
+end
